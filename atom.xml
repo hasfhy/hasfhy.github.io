@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>shengfeng.xyz</id>
+    <title>淮安盛丰</title>
+    <updated>2021-11-26T02:15:22.387Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="shengfeng.xyz"/>
+    <link rel="self" href="shengfeng.xyz/atom.xml"/>
+    <rights>All rights reserved 2021, 淮安盛丰</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://shengfeng.xyz/ce-shi-wen-zhang</id>
+        <link href="https://shengfeng.xyz/ce-shi-wen-zhang"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[测试文章
+]]></summary>
+        <content type="html"><![CDATA[<p>测试文章</p>
+]]></content>
+    </entry>
+</feed>
